@@ -1,0 +1,20 @@
+{
+  "name": "Question-And-Answer-Game-With-Node",
+  "version": "1.0.0",
+  "description": "Creating a simple question and answer game with node.js &lt;3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnkhod/Question-And-Answer-Game-With-Node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mnkhod/Question-And-Answer-Game-With-Node/issues"
+  },
+  "homepage": "https://github.com/mnkhod/Question-And-Answer-Game-With-Node#readme"
+}
